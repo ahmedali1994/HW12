@@ -1,0 +1,7 @@
+C:\Users\ClevelandCodes\source\repos\HW12\bin\Debug\HW12.exe.config
+C:\Users\ClevelandCodes\source\repos\HW12\bin\Debug\HW12.exe
+C:\Users\ClevelandCodes\source\repos\HW12\bin\Debug\HW12.pdb
+C:\Users\ClevelandCodes\source\repos\HW12\obj\Debug\HW12.csprojResolveAssemblyReference.cache
+C:\Users\ClevelandCodes\source\repos\HW12\obj\Debug\HW12.csproj.CoreCompileInputs.cache
+C:\Users\ClevelandCodes\source\repos\HW12\obj\Debug\HW12.exe
+C:\Users\ClevelandCodes\source\repos\HW12\obj\Debug\HW12.pdb
